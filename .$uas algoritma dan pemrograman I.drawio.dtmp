@@ -1,0 +1,170 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="1434" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-58" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Mulai&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="364" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-59" value="Menampilkan info Header" style="html=1;dashed=0;whiteSpace=wrap;strokeWidth=2;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="347" y="200" width="134" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-60" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Menginput jumlah pinjaman&lt;/font&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="329" y="270" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-61" value="Data yang diinput sesuai" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="334" y="370" width="159" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-63" value="Menginput jangka waktu pinjaman" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="329" y="480" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-64" value="apa ingin menghitung kembali" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="380" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-66" value="Data yang diinput sesuai" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="335" y="580" width="159" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-67" value="Menampilkan perhitungan pinjaman" style="html=1;dashed=0;whiteSpace=wrap;strokeWidth=2;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="347" y="770" width="134" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-68" value="Menyimpan data peminjaman ke riwayat" style="html=1;dashed=0;whiteSpace=wrap;strokeWidth=2;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="347" y="690" width="134" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-69" value="Apa ingin menambah perhitungan pinjaman" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="130" y="840" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-70" value="Menampilkan data riwayat peminjaman dan menampilkan pesan selesai" style="html=1;dashed=0;whiteSpace=wrap;strokeWidth=2;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="334" y="940" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-71" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Selesai&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="364" y="1040" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-72" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ChYzzjnNq7-qxPUKPXHQ-58" target="ChYzzjnNq7-qxPUKPXHQ-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="200" as="sourcePoint" />
+            <mxPoint x="630" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-85" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.214;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ChYzzjnNq7-qxPUKPXHQ-59" target="ChYzzjnNq7-qxPUKPXHQ-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="210" as="sourcePoint" />
+            <mxPoint x="540" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-86" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ChYzzjnNq7-qxPUKPXHQ-60" target="ChYzzjnNq7-qxPUKPXHQ-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="360" as="sourcePoint" />
+            <mxPoint x="650" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-87" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ChYzzjnNq7-qxPUKPXHQ-61" target="ChYzzjnNq7-qxPUKPXHQ-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="230" as="sourcePoint" />
+            <mxPoint x="660" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-88" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.962;exitY=0.488;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ChYzzjnNq7-qxPUKPXHQ-61" target="ChYzzjnNq7-qxPUKPXHQ-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="240" as="sourcePoint" />
+            <mxPoint x="550" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-89" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ChYzzjnNq7-qxPUKPXHQ-63" target="ChYzzjnNq7-qxPUKPXHQ-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="250" as="sourcePoint" />
+            <mxPoint x="680" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-90" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ChYzzjnNq7-qxPUKPXHQ-64" target="ChYzzjnNq7-qxPUKPXHQ-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="260" as="sourcePoint" />
+            <mxPoint x="690" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-91" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ChYzzjnNq7-qxPUKPXHQ-66" target="ChYzzjnNq7-qxPUKPXHQ-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="270" as="sourcePoint" />
+            <mxPoint x="700" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-92" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ChYzzjnNq7-qxPUKPXHQ-68" target="ChYzzjnNq7-qxPUKPXHQ-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="280" as="sourcePoint" />
+            <mxPoint x="710" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-95" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ChYzzjnNq7-qxPUKPXHQ-69" target="ChYzzjnNq7-qxPUKPXHQ-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="780" as="sourcePoint" />
+            <mxPoint x="640" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-96" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ChYzzjnNq7-qxPUKPXHQ-70" target="ChYzzjnNq7-qxPUKPXHQ-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="790" as="sourcePoint" />
+            <mxPoint x="650" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-97" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;edgeStyle=orthogonalEdgeStyle;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ChYzzjnNq7-qxPUKPXHQ-67" target="ChYzzjnNq7-qxPUKPXHQ-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="800" as="sourcePoint" />
+            <mxPoint x="660" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-98" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ChYzzjnNq7-qxPUKPXHQ-69" target="ChYzzjnNq7-qxPUKPXHQ-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="770" as="sourcePoint" />
+            <mxPoint x="280" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-99" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;exitX=0.956;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ChYzzjnNq7-qxPUKPXHQ-66" target="ChYzzjnNq7-qxPUKPXHQ-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="545" as="sourcePoint" />
+            <mxPoint x="580" y="495" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="620" />
+              <mxPoint x="530" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-100" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ChYzzjnNq7-qxPUKPXHQ-64" target="ChYzzjnNq7-qxPUKPXHQ-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="830" as="sourcePoint" />
+            <mxPoint x="690" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-102" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;YA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;fontStyle=1;fontFamily=Tahoma;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-103" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;TIDAK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;fontStyle=1;fontFamily=Tahoma;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="900" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-104" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;TIDAK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;fontStyle=1;fontFamily=Tahoma;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-105" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;TIDAK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;fontStyle=1;fontFamily=Tahoma;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="481" y="585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-106" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;TIDAK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;fontStyle=1;fontFamily=Tahoma;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="481" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-107" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;YA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;fontStyle=1;fontFamily=Tahoma;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-108" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;YA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;fontStyle=1;fontFamily=Tahoma;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-109" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;YA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;fontStyle=1;fontFamily=Tahoma;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="790" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ChYzzjnNq7-qxPUKPXHQ-110" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Flowchart diagram perhitungan pinjaman&lt;/h1&gt;&lt;p&gt;Nama : Arif Rafida Rahman&lt;/p&gt;&lt;p&gt;Nim : 241011700826&lt;/p&gt;&lt;p&gt;Kelas : CS01SIFE010&lt;/p&gt;&lt;p&gt;Mata kuliah : Algoritma dan pemrograman I&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;flowchart ini sebagai tugas ujian akhir semester I mata kuliah algoritma dan pemrograman I&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="250" height="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
